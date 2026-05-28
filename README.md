@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aboutalankrita
 - 👀 I’m interested in development of creative and aesthetic apps  
-- 🌱 I’m currently learning learning C++ and DSA
+- 🌱 I’m currently learning learning AI usecase and strategies
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me On my Instagram Handle styliekrita
 - 😄 Pronouns: SHE/HER
